@@ -1,0 +1,16 @@
+
+.container {
+  margin-top: 240px;
+}
+
+ .btn-primary {
+  color: #fff;
+  background-color: #d53f3f;
+  border-color: #e63d3d;
+} 
+
+.btn-primary:hover{
+  color: #fff;
+  background-color: #d44949;
+  border-color: #d44949;
+}
